@@ -45,9 +45,8 @@ I am a **Software Engineering** student at the **University of Seville**, mainly
 
 ### 📊 GitHub Stats
 
-![JesusFern's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusFern&show_icons=true&count_private=true)
+![Metrics](./github-metrics.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusFern&hide=%20hack,html,css)
 
 ---
 
