@@ -45,7 +45,7 @@ I am a **Software Engineering** student at the **University of Seville**, mainly
 
 ### 📊 GitHub Stats
 
-![Metrics](./github-metrics.svg)
+![Metrics](https://github.com/JesusFern/JesusFern/blob/main/github-metrics.svg)
 
 
 ---
