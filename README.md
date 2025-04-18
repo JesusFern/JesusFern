@@ -37,9 +37,10 @@ I am a **Software Engineering** student at the **University of Seville**, mainly
 - 🚀 [**Acme SF**](https://github.com/JesusFern/Acme-SF-D04) - Java project using the ACME framework built on Spring.
 - 🔧 [**Iduus Marti**](https://github.com/gii-is-DP1/DP1-2023-2024-l5-5) - Backend built with Spring and frontend with React.
 - 🌟 [**Pringa-huv Uvlhub**](https://github.com/pringa-uvlhub/uvlhub) - Flask-based project adding extra features to the UVLHub project.
-- 🛍️ [**Proyecto PGPIPAAS**](https://github.com/JesusFern/PGPIPAAS) - Django-based online store for selling courses for public exams.
-- 🍏 [**Proyecto Nutroos**](https://github.com/JesusFern/TFG-2025) - MERN stack application with TypeScript for a personal nutrition and training platform *(In Progress)*.
-- 🔄 [**Proyecto Borroo**](https://github.com/ISPP-2425-G4/borroo) - Backend in Django Rest Framework and frontend in React for a second-hand rental application *(In Progress)*.
+- 🛍️ [**Project PGPIPAAS**](https://github.com/JesusFern/PGPIPAAS) - Django-based online store for selling courses for public exams.
+- 🍏 [**Project Nutroos**](https://github.com/JesusFern/TFG-2025) - MERN stack application with TypeScript for a personal nutrition and training platform *(In Progress)*.
+- 🔄 [**Project Borroo**](https://github.com/ISPP-2425-G4/borroo) - Backend in Django Rest Framework and frontend in React for a second-hand rental application *(In Progress)*.
+- 📘 [**Project BookLog**](https://github.com/JesusFern/BookLog-ELK-Stack) - Express.js and MongoDB app integrated with ELK Stack (Elasticsearch, Logstash, Kibana) to capture, centralize, and visualize backend server logs in real time. *(In Progress)*.
 
 ---
 
