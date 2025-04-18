@@ -43,6 +43,15 @@ I am a **Software Engineering** student at the **University of Seville**, mainly
 
 ---
 
+### 📊 GitHub Stats
+
+![JesusFern's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusFern&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusFern&hide=%20hack,html,css)
+
+---
+
+
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesferrod) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JesusFern)  
