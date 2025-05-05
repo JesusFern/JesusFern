@@ -3,7 +3,7 @@
 ### 🧑‍💻 About Me
 I am a **Software Engineering** student at the **University of Seville**, mainly interested in **backend development** and **testing**, but I also have an interest in **frontend**.  I enjoy working with databases, APIs, and system architecture, focusing on building **secure and efficient applications**. I am always learning new tools and technologies to improve my skills.  🚀
 
-📄 [Check out my resume here](https://drive.google.com/file/d/139f3oq5uc9e4qvHk0Go4UdOS47PipZxe/view?usp=sharing)
+📄 [Check out my resume here](https://drive.google.com/file/d/1RF9W2Bzo4F9KW5sc5arPU2JdIaF3KNcA/view?usp=sharing)
 
 ### 🛠️ Technologies & Tools
 
