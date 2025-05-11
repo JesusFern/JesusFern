@@ -36,6 +36,7 @@ I am a **Software Engineering** student at the **University of Seville**, mainly
 ### 📂 Featured Projects
 - 🚀 [**Acme SF**](https://github.com/JesusFern/Acme-SF-D04) - Java project using the ACME framework built on Spring.
 - 🔧 [**Iduus Marti**](https://github.com/gii-is-DP1/DP1-2023-2024-l5-5) - Backend built with Spring and frontend with React.
+- 🤖 [**Aprendizaje por Refuerzo en Robótica Móvil**](https://github.com/JesusFern/Aprendizaje-por-refuerzo-en-robotica-movil) - Implementation of reinforcement learning algorithms (Q-Learning, Monte Carlo, SARSA) for mobile robot navigation.
 - 🌟 [**Pringa-huv Uvlhub**](https://github.com/pringa-uvlhub/uvlhub) - Flask-based project adding extra features to the UVLHub project.
 - 🛍️ [**Project PGPIPAAS**](https://github.com/JesusFern/PGPIPAAS) - Django-based online store for selling courses for public exams.
 - 📘 [**Project BookLog**](https://github.com/JesusFern/BookLog-ELK-Stack) - MERN stack app integrated with ELK Stack (Elasticsearch, Logstash, Kibana) to capture, centralize, and visualize backend server logs in real time.
